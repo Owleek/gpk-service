@@ -1,0 +1,19 @@
+{
+  "name": "gpk-service",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Owleek/gpk-service#readme",
+  "bugs": {
+    "url": "https://github.com/Owleek/gpk-service/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Owleek/gpk-service.git"
+  },
+  "license": "ISC",
+  "author": "ARTEMII KHAFIZOV",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
